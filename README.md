@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamsireddysup
-- 👀 I’m interested in contributing mu skills and knowledge in the semiconductor indutry
-- 🌱 I’m currently learning Analog and Digital IC Design 
+- 👀 I’m interested in contributing my skills and knowledge in the Digital Design Domain
+- 🌱 I’m currently learning Design Verificatrion and Validation Track
 - 💞️ I’m looking to collaborate on Innovative projects in the current industry
 - 📫 How o reach me : vamsireddysup@gmail.com
 
