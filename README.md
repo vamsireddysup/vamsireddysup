@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Vamsidhar Reddy Eraganeni
 
-🔧 *Design Verification | Formal Methods | Computer Architecture Enthusiast*  
+🔧 *Hardware RTL Design | Verification | Validation | Computer Architecture Enthusiast*  
 🎓 Master’s in Electrical and Computer Engineering @ Portland State University  
 📍 Portland, OR | ✉️ vamsireddysup@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a graduate student passionate about **hardware design verification**, **formal property checking**, and **performance-driven architecture modeling**. My projects span **PCIe verification using UVM**, **MIPS-lite pipeline simulation**, and **LLC design with MESI coherence** — all centered around building **resilient, testable, and performant hardware systems**.
+I'm a graduate student passionate about **hardware design verification**, **formal property checking**, and **performance-driven architecture modeling**. My projects span **PCIe transaction layer verification using UVM**, **MIPS-lite 5-stage pipeline simulation**, and **LLC design with MESI coherence** — all centered around building **resilient, testable, and performant hardware systems**.
 
 My curiosity drives me to explore how **formal methods** can complement traditional simulation to create robust systems. I've also implemented complex testbenches in SystemVerilog, explored fault models, and worked hands-on with **DFT concepts like ATPG, MBIST, and scan compression**.
 
