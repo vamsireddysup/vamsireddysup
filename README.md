@@ -2,7 +2,7 @@
 
 🔧 *Design Verification | Formal Methods | Computer Architecture Enthusiast*  
 🎓 Master’s in Electrical and Computer Engineering @ Portland State University  
-📍 Portland, OR | 💌 vamsireddysup@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/) | 🧠 [Resume](./Vamsidhar_Reddy_Eraganeni.pdf)
+📍 Portland, OR | 💌 vamsireddysup@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/)
 
 ---
 
