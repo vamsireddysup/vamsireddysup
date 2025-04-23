@@ -1,29 +1,28 @@
-# 👋 Hey there! I'm Vamsidhar Reddy (@vamsireddysup)
+# 👋 Hey there, I'm Vamsidhar Reddy!
 
-Welcome to my GitHub corner! I'm passionate about **Digital Design** and always exploring ways to turn ideas into silicon-smart solutions.
+Welcome to my GitHub! I'm currently pursuing my Master's in Electrical and Computer Engineering at Portland State University, and I’m on an exciting journey through the world of **Digital Design**, **Hardware Verification**, and **Computer Architecture**.
 
----
+## 💡 What I’m Passionate About:
+- Building robust **RTL designs** and validating them using **SystemVerilog** and **UVM**.
+- Diving deep into **Formal Verification**, **Pipeline Modeling**, and **Microarchitecture**.
+- Exploring cutting-edge tools like **QuestaSim**, **Synopsys VC Formal**, and **Xilinx Vivado**.
+- Contributing to real-world solutions in **Design Verification, DFT**, and **Low-level Hardware Testing**.
 
-## 🚀 About Me
+## 🚀 Current Focus
+- Learning and working on **Design Verification/Validation** and **Computer Architecture** projects.
+- Simulating 5-stage pipelines, verifying FSMs using **assertions and formal tools**, and modeling cache coherency protocols like **MESI**.
+- Collaborating with peers and professors to solve complex hardware behavior using **SystemVerilog**, **C++**, and **Python**.
 
-- 🎯 Currently diving deep into **Design Verification**, **Validation**, and **Computer Architecture**
-- 🧠 Love contributing to innovative and high-impact projects in the **semiconductor and digital systems space**
-- 🤝 Always up for **collaborating** on forward-thinking, challenging tech—especially those pushing the envelope in **hardware design**
+## 🤝 Open to Collaboration
+If you're working on:
+- Digital design projects (RTL/UVM/Formal)
+- Open-source verification environments
+- Research in microarchitecture or DFT techniques
 
----
+Let’s connect! I’m always excited to learn and contribute.
 
-## 🔍 Interests
+## 📫 Reach Out
+📧 Email: vamsireddysup@gmail.com  
+🌐 LinkedIn: [linkedin.com/in/vamsidhar-reddy](https://www.linkedin.com/in/vamsidhar-reddy/) *(add your actual link if available)*
 
-- 🛠️ RTL Design & Verification  
-- 🔄 System-on-Chip (SoC) Design  
-- 🧪 Simulation & Testing Methodologies  
-- 📚 Constantly learning, building, and leveling up
-
----
-
-## 📬 Let's Connect!
-
-Have a cool project or just want to geek out about digital systems? I'm just an email away!  
-📫 **vamsireddysup@gmail.com**
-
----
+Thanks for stopping by — feel free to explore my repositories and drop a message if you'd like to collaborate or geek out over some RTL debug logs! 😄
