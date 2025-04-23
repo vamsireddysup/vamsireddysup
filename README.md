@@ -1,28 +1,40 @@
-# 👋 Hey there, I'm Vamsidhar Reddy!
+# 👋 Hello! I'm Vamsidhar Reddy Eraganeni
 
-Welcome to my GitHub! I'm currently pursuing my Master's in Electrical and Computer Engineering at Portland State University, and I’m on an exciting journey through the world of **Digital Design**, **Hardware Verification**, and **Computer Architecture**.
+🔧 *Design Verification | Formal Methods | Computer Architecture Enthusiast*  
+🎓 Master’s in Electrical and Computer Engineering @ Portland State University  
+📍 Portland, OR | 💌 vamsireddysup@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/) | 🧠 [Resume](./Vamsidhar_Reddy_Eraganeni.pdf)
 
-## 💡 What I’m Passionate About:
-- Building robust **RTL designs** and validating them using **SystemVerilog** and **UVM**.
-- Diving deep into **Formal Verification**, **Pipeline Modeling**, and **Microarchitecture**.
-- Exploring cutting-edge tools like **QuestaSim**, **Synopsys VC Formal**, and **Xilinx Vivado**.
-- Contributing to real-world solutions in **Design Verification, DFT**, and **Low-level Hardware Testing**.
+---
 
-## 🚀 Current Focus
-- Learning and working on **Design Verification/Validation** and **Computer Architecture** projects.
-- Simulating 5-stage pipelines, verifying FSMs using **assertions and formal tools**, and modeling cache coherency protocols like **MESI**.
-- Collaborating with peers and professors to solve complex hardware behavior using **SystemVerilog**, **C++**, and **Python**.
+## 🚀 About Me
 
-## 🤝 Open to Collaboration
-If you're working on:
-- Digital design projects (RTL/UVM/Formal)
-- Open-source verification environments
-- Research in microarchitecture or DFT techniques
+I'm a graduate student passionate about **hardware design verification**, **formal property checking**, and **performance-driven architecture modeling**. My projects span **PCIe verification using UVM**, **MIPS-lite pipeline simulation**, and **LLC design with MESI coherence** — all centered around building **resilient, testable, and performant hardware systems**.
 
-Let’s connect! I’m always excited to learn and contribute.
+My curiosity drives me to explore how **formal methods (FPV, AEP, FXP)** can complement traditional simulation to create robust systems. I've also implemented complex testbenches in SystemVerilog, explored fault models (SAF, TDF, IDDQ), and worked hands-on with **DFT concepts like ATPG, MBIST, and scan compression**.
 
-## 📫 Reach Out
+---
+
+## 🔬 What I'm Working On
+
+- 🎯 PCIe Transaction Layer UVM Testbench – full functional and constrained-random coverage
+- 💡 Custom MIPS-lite simulator for pipeline timing, stall modeling, and hazard detection
+- 🧪 Formal verification of sequence detectors using **Synopsys VC Formal (AEP, FXP, FPV, FCA)**
+- 🛠 DFT flow simulation, fault analysis, and IJTAG/MBIST implementation using Tessent
+
+---
+
+## 🤝 I’m Open To:
+
+- Collaborating on **open-source or industry-relevant verification projects**
+- Contributing to **academic or RTL-level simulators**
+- Joining communities focused on **RISC-V, Formal Verification, or DFT**
+
+---
+
+## 📫 How to Reach Me
+
 📧 Email: vamsireddysup@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/vamsidhar-reddy](https://www.linkedin.com/in/vamsidhar-reddy/) *(add your actual link if available)*
+📎 LinkedIn: [linkedin.com/in/vamsidhar-reddy-eraganeni-374168233](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/)  
+💻 GitHub: [@vamsireddysup](https://github.com/vamsireddysup)
 
-Thanks for stopping by — feel free to explore my repositories and drop a message if you'd like to collaborate or geek out over some RTL debug logs! 😄
+Let’s build something bug-free together! 😄
