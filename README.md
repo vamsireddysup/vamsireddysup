@@ -2,7 +2,7 @@
 
 🔧 *Design Verification | Formal Methods | Computer Architecture Enthusiast*  
 🎓 Master’s in Electrical and Computer Engineering @ Portland State University  
-📍 Portland, OR | 💌 vamsireddysup@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/)
+📍 Portland, OR | ✉️ vamsireddysup@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/) | 🧠 [Resume](./Vamsidhar_Reddy_Eraganeni.pdf)
 
 ---
 
@@ -10,7 +10,7 @@
 
 I'm a graduate student passionate about **hardware design verification**, **formal property checking**, and **performance-driven architecture modeling**. My projects span **PCIe verification using UVM**, **MIPS-lite pipeline simulation**, and **LLC design with MESI coherence** — all centered around building **resilient, testable, and performant hardware systems**.
 
-My curiosity drives me to explore how **formal methods (FPV, AEP, FXP)** can complement traditional simulation to create robust systems. I've also implemented complex testbenches in SystemVerilog, explored fault models (SAF, TDF, IDDQ), and worked hands-on with **DFT concepts like ATPG, MBIST, and scan compression**.
+My curiosity drives me to explore how **formal methods** can complement traditional simulation to create robust systems. I've also implemented complex testbenches in SystemVerilog, explored fault models, and worked hands-on with **DFT concepts like ATPG, MBIST, and scan compression**.
 
 ---
 
@@ -37,4 +37,4 @@ My curiosity drives me to explore how **formal methods (FPV, AEP, FXP)** can com
 📎 LinkedIn: [linkedin.com/in/vamsidhar-reddy-eraganeni-374168233](https://www.linkedin.com/in/vamsidhar-reddy-eraganeni-374168233/)  
 💻 GitHub: [@vamsireddysup](https://github.com/vamsireddysup)
 
-Let’s build something bug-free together! 😄
+Let’s build something bug-free together!😄 and Sorry for making all the Projects Private:)
