@@ -26,7 +26,8 @@ Passionate about hardware design verification, formal methods, computer architec
 
 ### Protocols & Focus Areas 🔍
 ```
-Protocols: I2C, PCI Express, AXI, MESI, MIPS-Lite
+Protocols:I2C, PCI Express, AXI
+Architectures: x86, RISC - V, MESI, MIPS-Lite
 Focus: RTL Design, UVM, Formal Verification, DFT, Computer Architecture
 ```
 
@@ -64,7 +65,7 @@ Focus: RTL Design, UVM, Formal Verification, DFT, Computer Architecture
 - Discussions on emerging computer architecture trends
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsireddysup&show_icons=true&count_private=true&hide=issues&theme=radical&hide_rank=true&disable_animations=false" alt="GitHub Stats" height="150" />
+ <img src="https://github-readme-stats.vercel.app/api?username=vamsireddysup&show_icons=true&count_private=true&hide=issues&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="170" />
 </div>
 
 <div align="center">
