@@ -65,12 +65,10 @@ Focus: RTL Design, UVM, Formal Verification, DFT, Computer Architecture
 - Discussions on emerging computer architecture trends
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=vamsireddysup&show_icons=true&count_private=true&hide=issues&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="170" />
-</div>
+  <img src="https://github.com/user-attachments/assets/ba5a2fb8-72a2-49f7-a8be-9fa0100a415d" alt="Profile Banner" width="200px" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Debugging%20Reality-success?style=for-the-badge" alt="Status">
   <br>
   <i>Let's build something bug-free together! 🐞</i><br>
-  <i>Most projects are private to protect IP</i>
+  <i>Some projects are hidden:)</i>
 </div>
+
