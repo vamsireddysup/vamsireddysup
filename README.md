@@ -26,8 +26,8 @@ Passionate about hardware design verification, formal methods, computer architec
 
 ### Protocols & Focus Areas 🔍
 ```
-Protocols:I2C, PCI Express, AXI
-Architectures: x86, RISC - V, MESI, MIPS-Lite
+Protocols:I2C, PCI Express, AXI, APB UART, AHB
+Architectures: x86, RISC - V, x86, MESI, MIPS-Lite
 Focus: RTL Design, UVM, Formal Verification, DFT, Computer Architecture
 ```
 
